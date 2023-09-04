@@ -1,4 +1,4 @@
-- 👋 Hi, My name is TahmidAhmed and I am based in London
+- 👋 Hi, My name is Tahmid Ahmed and I am based in London
 - 👀 I’m interested in ... Web Development 
 - 🌱 I’m currently learning ... at Codecademy for Full-Stack development
 - 💞️ I’m looking to collaborate on ... 
