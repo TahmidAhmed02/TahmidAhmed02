@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Tahmid Ahmed and I am based in London
-- 👀 I’m interested in Web Development and full stack development and looking to start my journey in AWS Cloud Computing Platform
+- 👀 I’m interested in Web Development and full stack development and looking to start my journey on the AWS Cloud Computing Platform to enhance my knowledge about cloud infrastructure
 - 🌱 I’m currently learning at Codecademy for Full-Stack development 
 - 📫 How to reach me: 
       Phone: 07931 298 551  
